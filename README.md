@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Leon Guan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pzgz)](https://github.com/pzgz/)
+
 <!--
 **pzgz/pzgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
